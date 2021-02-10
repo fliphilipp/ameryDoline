@@ -12,7 +12,8 @@ Surface melting over Antarctica’s floating ice shelves is predicted to increas
 ## Contents:
 1. **Main Scripts**
     - *Fig1_formation_of_doline_on_Amery_Ice_Shelf.ipynb*: Jupyter notebook that outputs Fig. 1 in the paper. 
-    - *Fig3_first_melt_season_after_doline_formation.ipynb*: Jupyter notebook that outputs Fig. 1 in the paper. 
+    - *Fig2_height_change_profiles.ipynb*: Jupyter notebook that outputs elevation profile comparisons for Fig. 2 in the paper.
+    - *Fig3_first_melt_season_after_doline_formation.ipynb*: Jupyter notebook that outputs Fig. 3 in the paper. 
 2. **Directories**
     - *data/IS2/*: Contains pickle files with all the relevant ICESat-2 data. Data can also be read in from the corresponding .h5 files, which are available from NSIDC.
     - *data/L8/*: Contains the Landsat 8 data used for Figs 1 and 3. The mosaic for Fig 1 is in the main folder, the pan-sharpened and windowed images for Figures 1 and 3 are in the *pansharpened* subdirectory.
@@ -25,5 +26,7 @@ Surface melting over Antarctica’s floating ice shelves is predicted to increas
     - *curve_intersect.py*: A helper function that is needed to label the graticule on the maps produced.
 
 ![Fig1_formation_of_doline_on_Amery_Ice_Shelf](figs/Fig1_formation_of_doline_on_Amery_Ice_Shelf_revised.jpg)
+
+![Fig2_DEM differencing and elevation profile comparison](figs/figure_2.png)
 
 ![Fig3_first_melt_season_after_doline_formation](figs/Fig3_first_melt_season_after_doline_formation_revised.jpg) 
