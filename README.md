@@ -11,19 +11,19 @@ Surface melting over Antarctica’s floating ice shelves is predicted to increas
 
 ## Contents:
 1. **Main Scripts**
-    - *Fig1_formation_of_doline_on_Amery_Ice_Shelf.ipynb*: Jupyter notebook that outputs Fig. 1 in the paper. 
-    - *Fig2_height_change_profiles.ipynb*: Jupyter notebook that outputs elevation profile comparisons for Fig. 2 in the paper.
-    - *Fig3_first_melt_season_after_doline_formation.ipynb*: Jupyter notebook that outputs Fig. 3 in the paper. 
+    - [Fig1_formation_of_doline_on_Amery_Ice_Shelf.ipynb](/Fig1_formation_of_doline_on_Amery_Ice_Shelf.ipynb): Jupyter notebook that outputs Fig. 1 in the paper. 
+    - [Fig2_height_change_profiles.ipynb](/Fig2_height_change_profiles.ipynb): Jupyter notebook that outputs elevation profile comparisons for Fig. 2 in the paper.
+    - [Fig3_first_melt_season_after_doline_formation.ipynb](/Fig3_first_melt_season_after_doline_formation.ipynb): Jupyter notebook that outputs Fig. 3 in the paper. 
 2. **Directories**
-    - *data/IS2/*: Contains pickle files with all the relevant ICESat-2 data. Data can also be read in from the corresponding .h5 files, which are available from NSIDC.
-    - *data/L8/*: Contains the Landsat 8 data used for Figs 1 and 3. The mosaic for Fig 1 is in the main folder, the pan-sharpened and windowed images for Figures 1 and 3 are in the *pansharpened* subdirectory.
-    - *data/siogz/*: Contains grounding line data for plotting maps in Fig 1.
-    - *figs/*: Contains the figures / output from the main scripts.
-    - *readers/*: Contains helper functions to read ICESat-2 data from .h5 files to Python dictionaries. 
+    - [data/IS2/](/data/IS2/): Contains pickle files with all the relevant ICESat-2 data. Data can also be read in from the corresponding .h5 files, which are available from NSIDC.
+    - [data/L8/](/data/L8/): Contains the Landsat 8 data used for Figs 1 and 3. The mosaic for Fig 1 is in the main folder, the pan-sharpened and windowed images for Figures 1 and 3 are in the [pansharpened](/data/L8/pansharpened/) subdirectory.
+    - [data/siogz/](/data/siogz/): Contains grounding line data for plotting maps in Fig 1.
+    - [figs/](/figs/): Contains the figures / output from the main scripts.
+    - [readers/](/readers/): Contains helper functions to read ICESat-2 data from .h5 files to Python dictionaries. 
 3. **Helper functions / code**
-    - *0_process_L8_pansharpening.ipynb*: Jupyter notebook that reads the required Landsat 8 image files directly from S3, pan-sharpens and windows them, and writes them to files. This was used to produce the files in *data/L8/pansharpened*
-    - *mosaic_windowing_downsampling.ipynb*: Contains code to create smaller Landsat-8 mosaic files from a massive image that is too large and inconvenient to put on github.
-    - *curve_intersect.py*: A helper function that is needed to label the graticule on the maps produced.
+    - [0_process_L8_pansharpening.ipynb](/0_process_L8_pansharpening.ipynb): Jupyter notebook that reads the required Landsat 8 image files directly from S3, pan-sharpens and windows them, and writes them to files. This was used to produce the files in *data/L8/pansharpened*
+    - [mosaic_windowing_downsampling.ipynb](/mosaic_windowing_downsampling.ipynb): Contains code to create smaller Landsat-8 mosaic files from a massive image that is too large and inconvenient to put on github.
+    - [curve_intersect.py](/curve_intersect.py): A helper function that is needed to label the graticule on the maps produced.
 
 ![Fig1_formation_of_doline_on_Amery_Ice_Shelf](figs/Fig1_formation_of_doline_on_Amery_Ice_Shelf_revised.jpg)
 
