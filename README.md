@@ -16,7 +16,7 @@ Surface melting over Antarctica’s floating ice shelves is predicted to increas
     - [Fig2_height_change_profiles.ipynb](/Fig2_height_change_profiles.ipynb): Jupyter notebook that outputs elevation profile comparisons for Fig. 2 in the paper.
     - [Fig3_first_melt_season_after_doline_formation.ipynb](/Fig3_first_melt_season_after_doline_formation.ipynb): Jupyter notebook that outputs Fig. 3 in the paper. 
 2. **Directories**
-    - [data/IS2/](/data/IS2/): Contains pickle files with all the relevant ICESat-2 data. Data can also be read in from the corresponding .h5 files, which are available from [NSIDC](https://nsidc.org/data/icesat-2/data-sets).
+    - [data/IS2/](/data/IS2/): Contains pickle files with all the relevant ICESat-2 data. Data can also be read in from the corresponding .h5 files, which are available from [NSIDC](https://nsidc.org/data/icesat-2/data-sets). Also contains a matlab file of profiles on ICEsat-2 tracks from ice shelf flexure modelling.   
     - [data/L8/](/data/L8/): Contains the Landsat 8 data used for Figs 1 and 3. The mosaic for Fig 1 is in the main folder, the pan-sharpened and windowed images for Figures 1 and 3 are in the [pansharpened](/data/L8/pansharpened/) subdirectory.
     - [data/siogz/](/data/siogz/): Contains grounding line data for plotting maps in Fig 1.
     - [figs/](/figs/): Contains the figures / output from the main scripts.
