@@ -36,7 +36,7 @@ dem_1, 8m WorldView DEM, acquired 2018-03-26, ref: WV01_20180326_10200100702AF50
 dem_2, 8m WorldView DEM, acquired 2019-12-20, ref: WV03_20191220_1040010056100500_1040010055740B00_2m_lsf_seg1
 x_DhDt, PS-71 x in m for 16m Lagrangian Dh/Dt between DEM 1 and DEM 2
 y_DhDt, PS-71 y in m for 16m Lagrangian Dh/Dt between DEM 1 and DEM 2
-DhDt, Lagrangian Dh/Dt betweem DEM 1 and DEM 2, referenced to DEM 1
+DhDt, Lagrangian Dh/Dt between DEM 1 and DEM 2, referenced to DEM 1
 ~~~
 
 
