@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4747428.svg)](https://doi.org/10.5281/zenodo.4747428)
+
 # Rapid formation of an ice doline on Amery Ice Shelf, East Antarctica
 
 ## Key Points:
