@@ -39,6 +39,7 @@ y_DhDt, PS-71 y in m for 16m Lagrangian Dh/Dt between DEM 1 and DEM 2
 DhDt, Lagrangian Dh/Dt between DEM 1 and DEM 2, referenced to DEM 1
 ~~~
 
+## Figures
 
 ![Fig1_formation_of_doline_on_Amery_Ice_Shelf](figs/Fig1_formation_of_doline_on_Amery_Ice_Shelf_revised.jpg)
 **Figure 1.**  Formation of doline on Amery Ice Shelf. a) Landsat 8 image over the southern Amery Ice Shelf on 17 January 2019; Landsat 8 images for (b) 31 March and (c) 14 September 2019, with color-coded ICESat-2 GTs overlaid; (d) to (k) ICESat-2 ATL06 data for repeats of GTs (from west to east) before and after doline formation.
