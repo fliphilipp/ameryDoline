@@ -29,7 +29,7 @@ Surface melting over Antarctica’s floating ice shelves is predicted to increas
     - [curve_intersect.py](/curve_intersect.py): A helper function that is needed to label the graticule on the maps produced.
 
 **Additional data:**
-The Worldview-3-based DEMs used to produce the Lagrangian height change shown in panel (a) of figure 2 will be archived together with this code at Zenodo at *[data/](/data/)amery_doline_worldview.h5*. The corresponding DOI will be provided on GitHub as soon as it is issued. 
+The Worldview-3-based DEMs used to produce the Lagrangian height change shown in panel (a) of figure 2 is archived together with this code at Zenodo at *[data/](/data/)amery_doline_worldview.h5*. DOI: [10.5281/zenodo.4747428](http://doi.org/10.5281/zenodo.4747428)
 ~~~
 Fields in the hdf5 file amery_doline_worldview.h5:
 x_dem, PS-71 x in m for 8m WorldView DEMs
