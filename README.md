@@ -41,7 +41,14 @@ DhDt, Lagrangian Dh/Dt between DEM 1 and DEM 2, referenced to DEM 1
 
 
 ![Fig1_formation_of_doline_on_Amery_Ice_Shelf](figs/Fig1_formation_of_doline_on_Amery_Ice_Shelf_revised.jpg)
+**Figure 1.**  Formation of doline on Amery Ice Shelf. a) Landsat 8 image over the southern Amery Ice Shelf on 17 January 2019; Landsat 8 images for (b) 31 March and (c) 14 September 2019, with color-coded ICESat-2 GTs overlaid; (d) to (k) ICESat-2 ATL06 data for repeats of GTs (from west to east) before and after doline formation.
+
+
 
 ![Fig2_DEM differencing and elevation profile comparison](figs/figure_2.png)
+**Figure 2.** Elevation changes and estimation of unloading by the drainage event. a): Elevation changes for the doline and surrounding ice shelf from Lagrangian differencing of WorldView DEMs (26 March 2018 and 20 December 2019). Contours for positive changes: 5 m interval, zero contour in grey, overlaid with locations of ICESat-2 GTs. (b) to (f): ATL06 elevation difference profiles from ICESat-2 GTs (from west to east), with corresponding profiles from the WorldView DEM difference and flexural modelling. *Imagery ©️ 2020 DigitalGlobe, Inc.*
+
+
 
 ![Fig3_first_melt_season_after_doline_formation](figs/Fig3_first_melt_season_after_doline_formation_revised.jpg) 
+**Figure 3:** First melt season after doline formation (2019/2020). a) Landsat 8 image 29 January 2020 #126/111; ICESat-2 Tracks 0523 GT3L and GT3R are shown; (b and c) zooms of Landsat 8 image; ICESat-2 ATL03 and ATL06 data (d and e) for Track 0523 GT3L and GT3R across a drainage channel (at -72.378<sup>o</sup>) incised by meltwater flow from the rebound lake to the doline; f) for Track 0523 GT3R across the doline in January and April 2020 showing the structure of the collapsed ice lid and meltwater surfaces at 122.4 and 104.5 m; the April track is displaced to align major features with the January profile.
